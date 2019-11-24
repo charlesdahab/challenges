@@ -5,3 +5,6 @@
 It must return the sum of the array elements as an integer.
 
 Example: 1 + 2+ 3 + 4 + 10 + 11 = 31
+
+## Big O Notation
+O(N)
