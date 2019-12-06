@@ -1,5 +1,5 @@
 # Binary Search
 Binary Search in Python
 
-## Time Complexity
+## Big O Notation
 O(log n)

@@ -1,5 +1,5 @@
 # Linear Search
 Simple Linear Search in Python
 
-## Time Complexity
+## Big O Notation
 O(N)
