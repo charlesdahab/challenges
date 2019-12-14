@@ -18,3 +18,4 @@ Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 ## Big O Notation
+O(N)
